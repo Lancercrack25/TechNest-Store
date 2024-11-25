@@ -1,0 +1,375 @@
+# depslib dependency file v1.0
+1715481597 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\funciones.cpp
+	"Funciones.h"
+
+1715404072 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\funciones.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	<windows.h>
+	<limits>
+	"Proveedor.h"
+	"Inventario.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715484202 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\inventario.cpp
+	"Inventario.h"
+
+1715396464 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\inventario.h
+	<iostream>
+	<vector>
+	"Producto.h"
+	"Inventario.h"
+
+1715484122 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	<windows.h>
+	<locale>
+	"Inventario.h"
+	"Admin.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Funciones.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715402928 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedido.cpp
+	"Pedido.h"
+
+1715402930 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedido.h
+	<iostream>
+	<cmath>
+
+1715401788 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoespecial.cpp
+	"PedidoEspecial.h"
+
+1715401768 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoespecial.h
+	<iostream>
+	"Pedido.h"
+
+1715401796 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoexclusivo.cpp
+	"PedidoExclusivo.h"
+
+1715401774 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoexclusivo.h
+	<iostream>
+	"Pedido.h"
+
+1715399208 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\producto.cpp
+	"Producto.h"
+
+1715396464 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1715386686 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\provedor.cpp
+	"Provedor.h"
+
+1715396464 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\provedor.h
+
+1715396464 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\admin.cpp
+	"Admin.h"
+	<string>
+
+1715396464 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\admin.h
+	<iostream>
+	"Provedor.h"
+	<vector>
+
+1715398860 source:c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\proveedor.cpp
+	"Proveedor.h"
+
+1715396464 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\proveedor.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1715387297 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\inventario.cpp
+	"Inventario.h"
+
+1715386765 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\admin.cpp
+	"Admin.h"
+	<string>
+
+1715387209 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\proveedor.cpp
+	"Proveedor.h"
+
+1715387867 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\producto.cpp
+	"Producto.h"
+
+1715388573 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\funciones.cpp
+	"Funciones.h"
+
+1715387505 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedido.cpp
+	"Pedido.h"
+
+1715387546 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoespecial.cpp
+	"PedidoEspecial.h"
+
+1715387784 c:\users\luis galfridan\onedrive\escritorio\cosas x\carrera icom\tercer semestre\programacion orientada a objetos\proyecto\proyecto final\pedidoexclusivo.cpp
+	"PedidoExclusivo.h"
+
+1715396463 source:c:\users\juan mares\downloads\proyecto final\admin.cpp
+	"Admin.h"
+	<string>
+
+1715396463 c:\users\juan mares\downloads\proyecto final\admin.h
+	<iostream>
+	"Provedor.h"
+	<vector>
+
+1715396463 c:\users\juan mares\downloads\proyecto final\provedor.h
+
+1715404141 source:c:\users\juan mares\downloads\proyecto final\funciones.cpp
+	"Funciones.h"
+
+1715404070 c:\users\juan mares\downloads\proyecto final\funciones.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	<windows.h>
+	<limits>
+	"Proveedor.h"
+	"Inventario.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715396463 c:\users\juan mares\downloads\proyecto final\proveedor.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1715396463 c:\users\juan mares\downloads\proyecto final\inventario.h
+	<iostream>
+	<vector>
+	"Producto.h"
+	"Inventario.h"
+
+1715396463 c:\users\juan mares\downloads\proyecto final\producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1715402929 c:\users\juan mares\downloads\proyecto final\pedido.h
+	<iostream>
+	<cmath>
+
+1715401767 c:\users\juan mares\downloads\proyecto final\pedidoespecial.h
+	<iostream>
+	"Pedido.h"
+
+1715401772 c:\users\juan mares\downloads\proyecto final\pedidoexclusivo.h
+	<iostream>
+	"Pedido.h"
+
+1715399036 source:c:\users\juan mares\downloads\proyecto final\inventario.cpp
+	"Inventario.h"
+
+1715404164 source:c:\users\juan mares\downloads\proyecto final\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	<windows.h>
+	<locale>
+	"Inventario.h"
+	"Admin.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Funciones.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715402926 source:c:\users\juan mares\downloads\proyecto final\pedido.cpp
+	"Pedido.h"
+
+1715401786 source:c:\users\juan mares\downloads\proyecto final\pedidoespecial.cpp
+	"PedidoEspecial.h"
+
+1715401795 source:c:\users\juan mares\downloads\proyecto final\pedidoexclusivo.cpp
+	"PedidoExclusivo.h"
+
+1715399206 source:c:\users\juan mares\downloads\proyecto final\producto.cpp
+	"Producto.h"
+
+1715398859 source:c:\users\juan mares\downloads\proyecto final\proveedor.cpp
+	"Proveedor.h"
+
+1715567033 source:c:\users\juan mares\music\proyecto final\admin.cpp
+	"Admin.h"
+	<string>
+
+1715567162 c:\users\juan mares\music\proyecto final\admin.h
+	<iostream>
+
+1715484492 c:\users\juan mares\music\proyecto final\provedor.h
+
+1715527979 source:c:\users\juan mares\music\proyecto final\funciones.cpp
+	"Funciones.h"
+
+1715484492 c:\users\juan mares\music\proyecto final\funciones.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	<windows.h>
+	<limits>
+	"Proveedor.h"
+	"Inventario.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715568027 c:\users\juan mares\music\proyecto final\proveedor.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1715527243 c:\users\juan mares\music\proyecto final\inventario.h
+	<iostream>
+	<vector>
+	"Producto.h"
+	"Inventario.h"
+
+1715569760 c:\users\juan mares\music\proyecto final\producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1715527638 c:\users\juan mares\music\proyecto final\pedido.h
+	<iostream>
+	<cmath>
+
+1715484492 c:\users\juan mares\music\proyecto final\pedidoespecial.h
+	<iostream>
+	"Pedido.h"
+
+1715484492 c:\users\juan mares\music\proyecto final\pedidoexclusivo.h
+	<iostream>
+	"Pedido.h"
+
+1715527248 source:c:\users\juan mares\music\proyecto final\inventario.cpp
+	"Inventario.h"
+
+1715528339 source:c:\users\juan mares\music\proyecto final\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	<windows.h>
+	<locale>
+	"Inventario.h"
+	"Admin.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Funciones.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715484492 source:c:\users\juan mares\music\proyecto final\pedido.cpp
+	"Pedido.h"
+
+1715484492 source:c:\users\juan mares\music\proyecto final\pedidoespecial.cpp
+	"PedidoEspecial.h"
+
+1715484492 source:c:\users\juan mares\music\proyecto final\pedidoexclusivo.cpp
+	"PedidoExclusivo.h"
+
+1715484492 source:c:\users\juan mares\music\proyecto final\producto.cpp
+	"Producto.h"
+
+1715568045 source:c:\users\juan mares\music\proyecto final\proveedor.cpp
+	"Proveedor.h"
+
+1715567034 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\admin.cpp
+	"Admin.h"
+	<string>
+
+1715567164 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\admin.h
+	<iostream>
+
+1715527980 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\funciones.cpp
+	"Funciones.h"
+
+1715484492 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\funciones.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	<windows.h>
+	<limits>
+	"Proveedor.h"
+	"Inventario.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715568028 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\proveedor.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1715572014 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\inventario.h
+	<iostream>
+	<vector>
+	"Producto.h"
+	"Inventario.h"
+
+1715569762 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\producto.h
+	<iostream>
+	<sstream>
+	<string>
+
+1715572012 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedido.h
+	<iostream>
+	<cmath>
+
+1715572008 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedidoespecial.h
+	<iostream>
+	"Pedido.h"
+
+1715572006 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedidoexclusivo.h
+	<iostream>
+	"Pedido.h"
+
+1715527250 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\inventario.cpp
+	"Inventario.h"
+
+1715528340 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	<windows.h>
+	<locale>
+	"Inventario.h"
+	"Admin.h"
+	"Proveedor.h"
+	"Producto.h"
+	"Funciones.h"
+	"Pedido.h"
+	"PedidoEspecial.h"
+	"PedidoExclusivo.h"
+
+1715484492 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedido.cpp
+	"Pedido.h"
+
+1715484492 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedidoespecial.cpp
+	"PedidoEspecial.h"
+
+1715484492 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\producto.cpp
+	"Producto.h"
+
+1715568046 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\proveedor.cpp
+	"Proveedor.h"
+
+1715572028 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\proyecto\proyecto final technest_aguirre mares_lira hernandez\pedidoexclusivo.cpp
+	"PedidoExclusivo.h"
+
